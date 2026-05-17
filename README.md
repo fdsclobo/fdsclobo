@@ -1,5 +1,7 @@
-## Hola, soy Fernando <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-
+<h2 align="center">
+  Hola, soy Fernando 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h2>
 <p align ="center">
   <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
