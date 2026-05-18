@@ -4,7 +4,7 @@
 </h2>
 <p align ="center">
   <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"https://img.shields.io/sdkman/v/:candidate">
   </a>
   <a href="https://ifeanyinneji.hashnode.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
